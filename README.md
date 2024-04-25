@@ -34,6 +34,12 @@ See more details on the [Open Phytoliths website](https://open-phytoliths.netlif
 
 ### FAIR Phytoliths
 
+### Open Publishing Guidelines
+
+### Open Research Training
+
+### Phytolith Ontology
+
 ## How you can get involved
 
 ## Contact us
