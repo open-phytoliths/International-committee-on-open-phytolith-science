@@ -40,12 +40,21 @@ See more details on the [Open Phytoliths website](https://open-phytoliths.netlif
 
 ### Phytolith Ontology
 
-## How you can get involved
-
 ## Contact us
+Email us at: open.phytoliths@gmail.com
 
 ## Committee members
-
+- Emma Karoune (Chair of committee, The Alan Turing Institute, UK)
+- Jennifer Bates (Seoul National University, South Korea) 
+- Abraham Dabengwa (University of the Witwatersrand, South Africa)
+- Zach Dunseth (Brown University, USA)
+- Juan José García-Granero (Spanish National Research Council, Spain) 
+- Yong Ge (University of Chinese Academy of Sciences, Beijing)
+- Celine Kerfant (Universitat Pompeu Fabra, Spain)
+- Carla Lancelotti (Universitat Pompeu Fabra, Spain)
+- Marco Madella (Universitat Pompeu Fabra, Spain)
+- Maria Gabriela Musaubach (National University of Jujuy and Institute of Andean Ecoregions (CONICET-UNJu), Argentina)
+- Javier Ruiz-Pérez (Texas A&M University, USA)
 
 
 ## License:
